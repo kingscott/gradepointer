@@ -32,4 +32,5 @@ for count in range(howmany):
     print("{0:^20}{1:^30}{2:^20}{3:^5}".format(courses[count], lettergs[count], numbers[count], gpa[count]))  
     print()
     gpt += gpa[count]
-    print("Your GPA is:", gpt / howmany)
+
+print("Your GPA is:", (gpt / howmany).__round__(1))
