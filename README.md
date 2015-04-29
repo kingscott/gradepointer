@@ -31,4 +31,5 @@ Please enter a letter grade for course: a+
        ma215                      A+                     90-100        12  
 
 Your GPA is: 9.4
+```
 
