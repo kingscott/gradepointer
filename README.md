@@ -4,6 +4,7 @@ Computes your GPA from Laurier's standards.
 Nice CLI to compute your GPA.
 
 ```shell
+
 This program uses Wilfrid Laurier University's official grading system.
 2015 Wilfrid Laurier University
 
