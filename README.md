@@ -3,6 +3,10 @@ Computes your GPA from Laurier's standards.
 
 Nice CLI to compute your GPA.
 
+It can be run:
+
+    $ python main.py
+
 ```shell
 
 This program uses Wilfrid Laurier University's official grading system.
@@ -33,4 +37,5 @@ Please enter a letter grade for course: a+
 
 Your GPA is: 9.4
 ```
-
+# requirements 
+Should have python3.x installed. 
