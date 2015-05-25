@@ -34,6 +34,5 @@ It can be run:
            ma215                      A+                     90-100        12  
 
     Your GPA is: 9.4
-    
 # requirements 
 Should have python3.x installed. 
